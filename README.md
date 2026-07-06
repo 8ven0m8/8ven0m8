@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=450&lines=Computer+Engineering+Student;Agentic+AI" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=8ven0m8&theme=github-dark&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Agentic+AI;Open+Source+Enthusiast;Arch+Linux+User" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=8ven0m8&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=8ven0m8&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -26,10 +26,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=8ven0m8&label=Profile+Views&style=flat-square&color=0e75b6" />
-</p>
-
-### Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
