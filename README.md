@@ -42,14 +42,6 @@ Computer Engineering Student • Agentic AI
 
 ---
 
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=8ven0m8&theme=algolia&no-frame=true&column=4" />
-</p>
-
----
-
 ## Languages & Tools
 
 <p align="center">
@@ -70,10 +62,4 @@ Computer Engineering Student • Agentic AI
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8ven0m8/8ven0m8/output/github-contribution-grid-snake-dark.svg" />
 </p>
