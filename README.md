@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-Computer Engineering Student • Agentic AI
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=450&lines=Computer+Engineering+Student;Agentic+AI" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=8ven0m8&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=8ven0m8&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8ven0m8&theme=github_dark" />
 </p>
 
 <p align="center">
